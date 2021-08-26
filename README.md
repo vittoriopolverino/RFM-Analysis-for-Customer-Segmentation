@@ -1,1 +1,1 @@
-# FRM-Analysis-for-Customer-Segmentation
+# RFM Analysis for Customer Segmentation
