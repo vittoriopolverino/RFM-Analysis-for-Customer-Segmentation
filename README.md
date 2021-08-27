@@ -20,8 +20,8 @@ Through RFM analysis we are able to answer these questions and make the right de
 
 RFM analysis is a data-driven segmentation technique that uses **Recency, Frequency and Monetary** to divide customers into various categories or clusters and identify who are more likely to respond to promotions and also for future personalization services. These RFM metrics are important indicators of a **customer’s behavior** because frequency and monetary value affects a customer’s lifetime value, and recency affects retention, a measure of engagement.
 
-• Recency - How recently a customer has made a purchase
+• **Recency** - How recently a customer has made a purchase
 
-• Frequency - How often a customer makes a purchase
+• **Frequency** - How often a customer makes a purchase
 
-• Monetary - How much money a customer spends on purchase
+• **Monetary** - How much money a customer spends on purchase
