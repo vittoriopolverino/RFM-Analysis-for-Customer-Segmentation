@@ -1,8 +1,5 @@
 # RFM Analysis for Customer Segmentation
 
-![Screenshot (6)](https://user-images.githubusercontent.com/14616032/131168567-84504be1-3b1f-4c78-8dad-a0eddad0611a.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/14616032/131168555-f1718eb1-1c38-46bf-b446-b2bfe849556d.png)
-
 • Who are my best customers?
 
 • Which customers are at the verge of churning?
@@ -19,6 +16,9 @@
 
 Through RFM analysis we are able to answer these questions and make the right decisions for our business
 
+![Screenshot (7)](https://user-images.githubusercontent.com/14616032/131169219-0d641c55-62bb-4945-9813-528360104109.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/14616032/131169289-dc9c3f62-3805-43c8-a13b-6bdc62884e43.png)
+
 
 ## What **RFM Analysis** is?
 
@@ -32,8 +32,8 @@ RFM analysis is a data-driven segmentation technique that uses **Recency, Freque
 
 
 ## Dataset
-* Use the IMDB_ONEPIECE_DATASET.xlsx file
-* go to https://www.imdb.com/interfaces/. Subsets of IMDb data are available for access to customers for personal and non-commercial use. You can hold local copies of this data, and it is subject to our terms and conditions. Please refer to the Non-Commercial Licensing and copyright/license and verify compliance.The dataset files can be accessed and downloaded from https://datasets.imdbws.com/. The data is refreshed daily.
+* Customer Segmentation - RFM.xlsx file
+* https://www.kaggle.com/carrie1/ecommerce-data
 
 
 ## Data Preparation
