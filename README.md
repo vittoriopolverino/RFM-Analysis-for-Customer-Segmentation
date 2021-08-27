@@ -20,6 +20,7 @@ Through RFM analysis we are able to answer these questions and make the right de
 ![Screenshot (8)](https://user-images.githubusercontent.com/14616032/131169289-dc9c3f62-3805-43c8-a13b-6bdc62884e43.png)
 
 
+
 ## What **RFM Analysis** is?
 
 RFM analysis is a data-driven segmentation technique that uses **Recency, Frequency and Monetary** to divide customers into various categories or clusters and identify who are more likely to respond to promotions and also for future personalization services. These RFM metrics are important indicators of a **customer’s behavior** because frequency and monetary value affects a customer’s lifetime value, and recency affects retention, a measure of engagement.
@@ -31,12 +32,15 @@ RFM analysis is a data-driven segmentation technique that uses **Recency, Freque
 • **Monetary** - How much money a customer spends on purchase
 
 
+
 ## Dataset
 * Customer Segmentation - RFM.xlsx file
 * https://www.kaggle.com/carrie1/ecommerce-data
 
 
-## Data Preparation
+
+
+
 
 
 ⭐ Star if you like the project, it motivates me a lot!
