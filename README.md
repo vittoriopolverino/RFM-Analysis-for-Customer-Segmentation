@@ -37,6 +37,12 @@ RFM analysis is a data-driven segmentation technique that uses **Recency, Freque
 <br/><br/><br/>
 
 
+## Tableau packaged workbook file
+* RFM Analysis for Customer Segmentation.twbx
+* Go to my Tableau Public Page following the link https://public.tableau.com/views/IMDB_ONE_PIECE/Dashboard?:language=it-IT&:display_count=n&:origin=viz_share_link
+<br/><br/><br/>
+
+
 
 ## Dataset
 * Customer Segmentation - RFM.xlsx file
