@@ -1,3 +1,6 @@
+⭐ Star if you like the project, it motivates me a lot! <br/>
+
+
 # RFM Analysis for Customer Segmentation
 
 • Who are my best customers?
@@ -18,6 +21,7 @@ Through RFM analysis we are able to answer these questions and make the right de
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/14616032/131169219-0d641c55-62bb-4945-9813-528360104109.png)
 ![Screenshot (8)](https://user-images.githubusercontent.com/14616032/131169289-dc9c3f62-3805-43c8-a13b-6bdc62884e43.png)
+<br/><br/><br/>
 
 
 
@@ -30,17 +34,10 @@ RFM analysis is a data-driven segmentation technique that uses **Recency, Freque
 • **Frequency** - How often a customer makes a purchase
 
 • **Monetary** - How much money a customer spends on purchase
+<br/><br/><br/>
 
 
 
 ## Dataset
 * Customer Segmentation - RFM.xlsx file
 * https://www.kaggle.com/carrie1/ecommerce-data
-
-
-
-
-
-
-
-⭐ Star if you like the project, it motivates me a lot!
